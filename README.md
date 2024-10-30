@@ -16,10 +16,10 @@ Python bag of words ML and cosine similarity algorithm
 ### Modules, IDE and database in this project
 
 #### Modules:
-pandas for Series and Dataframe Operations
-scikit-learn for vectorization, train and test data split and cosine similarity 
-nltk for stopwords, RegexpTokenizer, WordNetLemmatizer and word_tokenize
-customtkinter for UI objects
+- pandas for Series and Dataframe Operations
+- scikit-learn for vectorization, train and test data split and cosine similarity 
+- nltk for stopwords, RegexpTokenizer, WordNetLemmatizer and word_tokenize
+- customtkinter for UI objects
 
 #### IDE
 - VSCode
