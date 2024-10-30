@@ -1,5 +1,5 @@
-# BagOfWords
-Python bag of words ML and cosine similarity algorithm
+# Bag Of Words - Python Project
+Python Bag of Words ML and cosine similarity algorithm for film search based on word similarity
 
 ### Setup
 - Open the project in VSCode or Anaconda
